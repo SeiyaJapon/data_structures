@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Go
+/bin/
+/pkg/
+/vendor/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+coverage.out
+
+# Build outputs
+_build/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment files
+.env
+*.env
+
+# Logs and misc
+*.log
